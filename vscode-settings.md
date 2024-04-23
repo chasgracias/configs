@@ -1,5 +1,12 @@
 # VS Code Settings
 
+#### Fonts
+
+#### Extensions
+* Theme / Editor
+* Useful Tools
+* Languages and Libraries
+
 #### Settings
 ```
 {
@@ -42,4 +49,7 @@
   },
   "security.workspace.trust.untrustedFiles": "open"
 }
+```
+#### Keybindings
+```
 ```
