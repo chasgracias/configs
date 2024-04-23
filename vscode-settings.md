@@ -8,7 +8,7 @@
 * Languages and Libraries
 
 #### Settings
-```
+```json
 {
   "editor.cursorBlinking": "blink",
   "editor.cursorSmoothCaretAnimation": "on",
